@@ -6,7 +6,7 @@ https://user-images.githubusercontent.com/25275596/211954881-1a855177-18b7-42ce-
 
 ## Overview
 
-![url-shortener](https://user-images.githubusercontent.com/25275596/211954695-b157fb4b-d18c-4e3f-a361-58ad00b76deb.png)
+![url-shortener drawio (1)](https://user-images.githubusercontent.com/25275596/211955179-3f6a984d-d8c8-405e-b33e-c3d7a3bc7391.png)
 
 
 ## Installation
